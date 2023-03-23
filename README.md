@@ -1,5 +1,8 @@
 # Simple CLI Todo App
 
+## oiu
+![Usage](usage.png)
+
 A simple command-line todo app written in Golang. The app allows you to add tasks, list tasks, and mark tasks as completed using a JSON file as storage.
 
 ## Prerequisites
