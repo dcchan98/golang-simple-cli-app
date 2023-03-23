@@ -2,7 +2,7 @@ package cmd
 
 import (
 	"fmt"
-	"github.com/dcchan98/cli-app/pkg/store"
+	"github.com/dcchan98/golang-simple-cli-app/pkg/store"
 )
 
 func ListTasks(s store.Store) error {

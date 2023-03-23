@@ -3,8 +3,8 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"github.com/dcchan98/cli-app/pkg/cmd"
-	"github.com/dcchan98/cli-app/pkg/store"
+	"github.com/dcchan98/golang-simple-cli-app/pkg/cmd"
+	"github.com/dcchan98/golang-simple-cli-app/pkg/store"
 	"os"
 	"strconv"
 	"strings"
